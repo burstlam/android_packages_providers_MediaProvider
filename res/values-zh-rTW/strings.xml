@@ -20,4 +20,8 @@
     <string name="app_label" msgid="581696352855930028">"媒體儲存空間"</string>
     <string name="upgrade_msg" msgid="4093462661265175619">"正在升級媒體資料庫。"</string>
     <string name="artist_label" msgid="1181678850424271227">"演出者"</string>
+
+    <!-- Ask to scan on boot -->
+    <string name="ask_scan_title">是否執行掃描新媒體?</string>
+    <string name="ask_scan_text">點擊開始手動掃描</string>
 </resources>

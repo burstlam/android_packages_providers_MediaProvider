@@ -20,4 +20,8 @@
     <string name="app_label" msgid="581696352855930028">"媒体存储"</string>
     <string name="upgrade_msg" msgid="4093462661265175619">"正在升级媒体数据库。"</string>
     <string name="artist_label" msgid="1181678850424271227">"艺术家"</string>
+
+    <!-- Ask to scan on boot -->
+    <string name="ask_scan_title">是否执行扫描新媒体?</string>
+    <string name="ask_scan_text">点击开始手动扫描</string>
 </resources>
