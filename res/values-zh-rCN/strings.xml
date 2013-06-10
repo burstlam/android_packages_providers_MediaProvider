@@ -24,4 +24,14 @@
     <!-- Ask to scan on boot -->
     <string name="ask_scan_title">是否执行扫描新媒体?</string>
     <string name="ask_scan_text">点击开始手动扫描</string>
+
+    <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
+    <string name="ringtone_default">预设铃声</string>
+
+    <!-- Choice in the notification sound picker.  If chosen, the default notification sound will be
+         used. -->
+    <string name="notification_sound_default">预设通知音效</string>
+
+    <!-- Choice in the alarm sound picker.  If chosen, the default alarm sound will be used. -->
+    <string name="alarm_sound_default">预设闹钟音效</string>
 </resources>
